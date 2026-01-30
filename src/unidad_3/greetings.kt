@@ -1,4 +1,4 @@
-package `unidad 3`
+package unidad_3
 
 fun main(args: Array<String>) {
     val time = args[0].toInt()

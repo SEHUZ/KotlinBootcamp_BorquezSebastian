@@ -1,4 +1,4 @@
-package `unidad 2`
+package unidad_2
 
 fun listas () {
     //lista dos nulos

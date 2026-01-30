@@ -1,4 +1,4 @@
-package `unidad 3`
+package unidad_3
 
 fun isHappySunny(mood: String, weather: String, temperature: Int) =
     mood == "happy" && weather == "sunny" && temperature > 20

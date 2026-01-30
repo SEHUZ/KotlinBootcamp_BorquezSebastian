@@ -1,4 +1,4 @@
-package `unidad 3`
+package unidad_3
 
 val rollDice = { sides: Int -> if (sides == 0) 0 else (1..sides).random() }
 

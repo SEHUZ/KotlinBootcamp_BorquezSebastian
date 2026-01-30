@@ -1,4 +1,4 @@
-package `unidad 3`
+package unidad_3
 
 fun main () {
     val spices = listOf(

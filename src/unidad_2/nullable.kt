@@ -1,4 +1,4 @@
-package `unidad 2`
+package unidad_2
 
 fun nulos () {
     // int nulo
